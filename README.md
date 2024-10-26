@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I am a Computer Science graduate with a passion fo
 - Innovative applications related to data analysis
 
 ## 📫 How to reach me:
-- Email: [akshitgoel030@gmail.com](mailto:akshitgoel030@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: [akshitgoel789@gmail.com](mailto:akshitgoel789@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/akshit-goel-220141203/
 
 ## 😄 Pronouns:
 - He/Him
