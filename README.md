@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Akshit Goel (@akshitgoel-09)
 
-Welcome to my GitHub profile! I am a Computer Science graduate with a passion for web development and software engineering. My projects reflect my dedication to creating efficient and user-friendly applications.
+Welcome to my GitHub profile! I am a Electronics and Communication Engineering  graduate with a passion for web development and software engineering. My projects reflect my dedication to creating efficient and user-friendly applications.
 
 ## 👀 I’m interested in:
 - Frontend development using HTML, CSS, and JavaScript
